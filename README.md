@@ -36,11 +36,8 @@ I have made this so that it can give reminder to me and my friends for healthy l
 
 ```bash
 HEALTHY PROGRAMMAR
-    ├── snake_game.py
-    ├── snake_gui.py
-    ├── highscore.txt
-    ├── scorecard.txt
-    └── mp3 songs
+    ├── drink water reminder.py
+    └── healthy programmar.py
 ```
     
 ## Screenshots :point_down: 
