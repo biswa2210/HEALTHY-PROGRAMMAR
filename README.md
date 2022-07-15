@@ -50,9 +50,9 @@ HEALTHY PROGRAMMAR
     
 <a href="hp1.png"><img src="hp1.png" width="800" height= "380"></a> 
     
-<a href="hp2.png"><img src="hp2.ong" width="800" height= "380"></a>
+<a href="hp2.png"><img src="hp2.png" width="800" height= "380"></a>
 
-<a href="hp3.png"><img src="hp3.ong" width="800" height= "380"></a>
+<a href="hp3.png"><img src="hp3.png" width="800" height= "380"></a>
 
 </div>
 
