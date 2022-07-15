@@ -19,9 +19,13 @@
 
 <div align="justified">
     
-Healthy Programmar Application gives water, medicine and other health related reminders.
+Healthy Programmar Application gives water, medicine and other health related reminders. We can set the things according to us. We can schedule time of eater, exercise etc. I have created this using Python.
  
 </div>
+
+## HEALTHY PROGRAMMER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=EkNDsq6XFkE&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=4">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
 
 ## Purpose :point_down:
 
