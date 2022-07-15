@@ -48,7 +48,9 @@ HEALTHY PROGRAMMAR
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="hp1.png"><img src="hp1.png" width="800" height= "380"></a> 
+    
+<a href="hp2.png"><img src="hp2.ong" width="800" height= "380"></a>
 
 </div>
 
